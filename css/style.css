@@ -1,0 +1,28 @@
+p{
+    font-size:20px;
+    font-weight: bold;
+}
+img{
+    width: 70%;
+    height: 300px;
+
+}
+
+.division1{
+    background-color: antiquewhite;
+}
+.division2{background-color: #d00813;
+}
+.division3{
+    background-color: darkgoldenrod;
+}
+#main{
+    background-color: black;
+    display: flex;
+    padding-top: 30px;
+}
+.iamgeparagraph{
+
+    display: flex;
+    padding-left:20px;
+}
